@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Ex8_SphereAdder : MonoBehaviour
 {
-    GameObject[] group2;
+    private GameObject[] group2;
     
     // Start is called before the first frame update
     void Start()
